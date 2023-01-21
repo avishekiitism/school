@@ -4,6 +4,8 @@ public class registation_details {
     public String edtfullname="", edtguardianname="", edtclass="", edtsection="",
             edtmobilenumber="", edtemailid="", edtpassword="";
 
+    public registation_details(){}
+
     public registation_details(String edtfullname, String edtguardianname, String edtclass, String edtsection, String edtmobilenumber, String edtemailid, String edtpassword) {
         this.edtfullname = edtfullname;
         this.edtguardianname = edtguardianname;
