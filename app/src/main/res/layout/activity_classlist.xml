@@ -9,5 +9,37 @@
     android:padding="10dp"
     tools:context=".classlist">
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 6"
+        android:id="@+id/btn6"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 7"
+        android:id="@+id/btn7"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 8"
+        android:id="@+id/btn8"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 9"
+        android:id="@+id/btn9"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 10"
+        android:id="@+id/btn10"
+        />
+
+
 
 </LinearLayout>
