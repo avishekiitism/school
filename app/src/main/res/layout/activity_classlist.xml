@@ -39,6 +39,18 @@
         android:text="Class 10"
         android:id="@+id/btn10"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 11"
+        android:id="@+id/btn11"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class 12"
+        android:id="@+id/btn12"
+        />
 
 
 
